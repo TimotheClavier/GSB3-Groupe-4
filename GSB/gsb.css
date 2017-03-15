@@ -1,0 +1,26 @@
+body{
+	height:100%;
+	background-image:url(http://www.pierre-marcus.com/wp-content/uploads/2015/08/fond-gris2.jpg);
+	
+	
+}
+h4{
+	color:white;
+	font-family:Arial;
+}
+table{
+	margin-top: 100px;
+		color:white;
+
+}
+p{
+	color:white;
+	margin-top: 100px;
+	margin-left: 90px;
+	
+	
+}
+div{
+	margin-left: 50px;
+	margin-top: 50px;
+}
